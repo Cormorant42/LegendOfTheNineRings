@@ -1,1 +1,3 @@
-
+<Version: 0.00>
+/folder/filename.ext direct_link_to_file
+<End of Version>
